@@ -76,12 +76,11 @@ params:
     # disableThemeToggle: true
     defaultTheme: "dark" #"light" # dark
 
-
-  # font:
-  #   fontSize: 1rem # default: 1rem
-  #   fontWeight: 400 # default: 400
-  #   lineHeight: 1.5 # default: 1.5
-  #   textAlign: left # default: left
+  font:
+    fontSize: 0.75rem # default: 1rem
+    fontWeight: 400 # default: 400
+    lineHeight: 1.5 # default: 1.5
+    textAlign: left # default: left
 
   # color preference
   # color:
@@ -110,7 +109,7 @@ params:
     searchPlaceholder: "Search"
 
     menus:
-      disableAbout: true
+      disableAbout: false
       disableExperience: false
       disableEducation: false
       disableProjects: false
@@ -123,7 +122,8 @@ params:
     intro: "Namaskar, I am"
     title: "Deepayan Sur  "
     subtitle: "Infusing AI into reality"
-    content: " Passionate about data science and AI, I blend insights with innovation. Join me as I capture the essence of life through soccer, photography, and code in the sunny heart of Los Angeles."
+    content: " Passionate about data science and AI, I blend insights with innovation. Join me as I capture the essence of life through soccer, photography, and code in the sunny heart of Los Angeles.
+    I am currently looking for SUMMER 2024 Internship Oppurtunities"
     image: /images/hero.png
     bottomImage:
       enable: true
@@ -151,7 +151,7 @@ params:
   # About
   about:
     enable: true
-    title: "I'm Open to work for Summer 2024"
+    title: "About Me"
     image: "/images/me.jpg"
     content: |-
       My academic journey has taken me from India to the vibrant tech hub of Los Angeles, where I'm currently pursuing a Master's in Computer Science @ USC. With a deep passion for data science and AI, I've spent over four years dedicated to honing my skills. What truly sets me apart is my practical experience and leadership qualities.
