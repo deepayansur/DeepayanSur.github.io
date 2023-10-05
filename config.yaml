@@ -76,11 +76,11 @@ params:
     # disableThemeToggle: true
     defaultTheme: "dark" #"light" # dark
 
-  font:
-    fontSize: 1rem # default: 1rem
-    fontWeight: 400 # default: 400
-    lineHeight: 1.5 # default: 1.5
-    textAlign: left # default: left
+  # font:
+  #   fontSize: 1rem # default: 1rem
+  #   fontWeight: 400 # default: 400
+  #   lineHeight: 1.5 # default: 1.5
+  #   textAlign: left # default: left
 
   # color preference
   # color:
@@ -109,7 +109,7 @@ params:
     searchPlaceholder: "Search"
 
     menus:
-      disableAbout: false
+      disableAbout: true
       disableExperience: false
       disableEducation: false
       disableProjects: false
