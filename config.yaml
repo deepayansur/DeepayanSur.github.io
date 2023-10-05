@@ -122,7 +122,8 @@ params:
     intro: "Namaskar, I am"
     title: "Deepayan Sur  "
     subtitle: "Infusing AI into reality"
-    content: Passionate about data science and AI, I blend insights with innovation. Join me as I capture the essence of life through soccer, photography, and code in the sunny heart of Los Angeles.
+    content: |-
+    Passionate about data science and AI, I blend insights with innovation. Join me as I capture the essence of life through soccer, photography, and code in the sunny heart of Los Angeles.
     I am currently looking for SUMMER 2024 Internship Oppurtunities
     image: /images/hero.png
     bottomImage:
