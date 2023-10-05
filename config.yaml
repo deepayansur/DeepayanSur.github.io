@@ -150,22 +150,27 @@ params:
   # About
   about:
     enable: true
-    title: "About Me"
+    title: "I'm Open to work for Summer 2024"
     image: "/images/me.jpg"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      My academic journey has taken me from India to the vibrant tech hub of Los Angeles, where I'm currently pursuing a Master's in Computer Science @ USC. With a deep passion for data science and AI, I've spent over four years dedicated to honing my skills. What truly sets me apart is my practical experience and leadership qualities.
+      
+      As an Associate Software Developer at Highradius Technologies, I led initiatives to design and develop user behavior analysis frameworks, resulting in remarkable 70% efficiency improvements. Additionally, my work involved crafting cutting-edge Natural Language Processing (NLP) systems, such as the Email Intent Classifier and Email Entities Recognition system, which saved substantial bandwidth and elevated client interactions.
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I've worn the hat of a mentor, guiding and training over 150 trainees as part of the Internship Program. This experience has reinforced my leadership and team-building skills, fostering a collaborative environment where innovation thrives.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "Python"
+        - "Machine Learning"
+        - "Natural Language Processing (NLP)"
+        - "Data Analysis"
+        - "Agile Methodologies"
+        - "C++"
+        - "Java"
+        - "Team Collaboration"
+        - "Multicultural Fluency"
 
   # Experience
   experience:
