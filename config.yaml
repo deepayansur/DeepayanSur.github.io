@@ -145,15 +145,15 @@ params:
       newPage: true
     socialLinks:
       fontAwesomeIcons:
-        - icon: fab fa-github
+        - icon: fab fa-github fa-xl
           url: https://github.com/deepayansur
-        - icon: fab fa-linkedin
+        - icon: fab fa-linkedin fa-xl
           url: https://www.linkedin.com/in/deepayan-sur/
-        - icon: fab fa-instagram
+        - icon: fab fa-instagram fa-xl
           url: https://www.instagram.com/deepayan_sur/
-        - icon: fab fa-twitter
+        - icon: fab fa-twitter fa-xl
           url: https://twitter.com/DeepayanSur
-        - icon: fab fa-google-scholar
+        - icon: fab fa-google-scholar fa-xl
           url: https://scholar.google.com/citations?user=ZB7bd1YAAAAJ&hl=en
       # customIcons:
       #   - icon: /fav.png
