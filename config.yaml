@@ -153,6 +153,8 @@ params:
           url: https://www.instagram.com/deepayan_sur/
         - icon: fab fa-twitter
           url: https://twitter.com/DeepayanSur
+        - icon: fab fa-google-scholar
+          url: https://scholar.google.com/citations?user=ZB7bd1YAAAAJ&hl=en
       # customIcons:
       #   - icon: /fav.png
       #     url: "https://example.com"
