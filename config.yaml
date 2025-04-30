@@ -197,7 +197,7 @@ params:
           - Developed an AI-driven synthesis engine, improving user interaction through intelligent recommendation methodologies and managing 14+ concurrent distributed software systems using decision trees.
           - Engineered a Retrieval-Augmented Generation (RAG) framework with LangChain, achieving a **30% improvement** in TQTL formula generation accuracy for translating natural language to logical representations.
           - Fine-tuned LLM models via **Transfer Learning** and **RLHF**, boosting TQTL prediction precision by **25%** on complex natural language datasets for scene interpretation.
-          - **Accepted two research papers** at ICSE 2025 and VMCAI 2025.
+          - **Accepted two research papers** at SAC 2025 and VMCAI 2025.
 
       - job: "Machine Learning Engineer"
         company: "Highradius Technologies"
